@@ -41,11 +41,12 @@ Fitur-fitur yang tersedia dibuat untuk memenuhi final project mata kuliah strukt
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 1. Kompilasi program:
    ```bash
    g++ main.cpp -o tiket
 2. Jalankan program:
+   ```bash
    ./tiket
 
 ## Contoh Alur
