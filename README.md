@@ -1,6 +1,8 @@
-# APLIKASI PEMESANAN TIKET KERETA API
-Program ini adalah simulasi **aplikasi pemesanan tiket kereta api** sederhana menggunakan C++.
-Fitur-fitur yang tersedia dibuat untuk memenuhi final project mata kuliah struktur data dengan syarat penggunaan struct, array, pointer, sorting, searching, queue, dan linked list.
+# APLIKASI PEMESANAN TIKET KERETA API (Versi Revisi)
+Program ini merupakan simulasi **aplikasi pemesanan tiket kereta api** sederhana berbasis **C++**.
+Aplikasi ini dikembangkan sebagai final project mata kuliah Struktur Data, dengan menerapkan berbagai konsep dasar pemrograman, yaitu: struct, array, pointer, sorting, searching, queue, dan linked list.
+
+Fitur-fitur yang tersedia telah saya susun dan revisi dari versi awal kelompok agar lebih rapi, fungsional, serta mudah digunakan
 
 ---
 
